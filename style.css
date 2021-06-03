@@ -82,6 +82,8 @@ body {
 
 #courses .container #carouselExampleIndicators {
   height: 40rem;
+  margin: 0;
+  padding: 0;
 }
 
 .courses-intro {
