@@ -81,7 +81,7 @@ body {
 }
 
 #courses .container #carouselExampleIndicators {
-  height: 40rem;
+  height: 35rem;
   margin: 0;
   padding: 0;
 }
@@ -92,7 +92,7 @@ body {
   padding: 3% 0;
 }
 .courses-card {
-  width: 18rem;
+  width: 12rem;
   margin: 7%;
 }
 .big-heading-courses {
