@@ -95,12 +95,12 @@ body {
   padding: 3% 0 0;
 }
 .courses-card {
-  width: 20rem;
-  margin: 7%;
+  width: 25rem;
+  height: 30rem;
 }
 .courses-img {
   width: 100%;
-  height: 50%;
+  height: 60%;
 }
 .big-heading-courses {
   text-align: center;
@@ -208,6 +208,10 @@ body {
     width: 15rem;
     height: 28rem;
   }
+  .courses-img {
+    width: 100%;
+    height: 40%;
+  }
 }
 
 @media (max-width: 355px) {
@@ -218,6 +222,10 @@ body {
   }
   .courses-card {
     width: 12rem;
-    height: 28rem;
+    height: 30rem;
+  }
+  .courses-img {
+    width: 100%;
+    height: 40%;
   }
 }
